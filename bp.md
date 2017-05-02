@@ -15,7 +15,7 @@ Our mission is to provide only the best possible solutions at the best possible 
 
 ## Competitive advantage
 * Only ninjas for our teams, and those willing to become ninjas. Our collective experience and network will become the base that will grow as our ninjas recruit from their networks. We want the discouraged, the difficult and the lazy who refuse to waste their time. We want Ronin. We want people unafraid to innovate themselves out of a job.
-* We will not turn down projects that our larger competitors do not consider because they are too small or do not present staffing opportunities. We will actively pursue these opportunities.
+* We will not turn down projects that our competitors do not consider because they are too small or do not present staffing opportunities. We will actively pursue these opportunities.
 * We will not sell a specific technology set or stack based on current internal skills and capacity but rather find the best possible solution and learn it.
 * We will use a pricing model based on sizing for value that aligns with Agile estimation and assign cost to features.
 * We will structure contracts based on business value of projects and strict Agile delivery; where possible we will include customer KPIs for percentage of returning revenue. This will remove the time-consuming process of time and material or fixed cost project contract negotiation based entirely on ROI and value aligned to the core business strategy and vision.
