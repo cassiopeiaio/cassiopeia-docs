@@ -1,5 +1,4 @@
-# Casiopeia LLC 
-## Business Plan
+# Casiopeia
 
 ## Vision
 Provide excellent solutions to business problems with the best possible combination of tools and minds, with no compromises.
